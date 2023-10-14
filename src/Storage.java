@@ -53,7 +53,7 @@ public class Storage {
     }
 
     public double findTheAverageSalary() {
-        return  findTotalMonthlySalary() / employee.length;
+        return findTotalMonthlySalary() / employee.length;
     }
 
     public void printFIO() {
